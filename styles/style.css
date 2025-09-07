@@ -1,0 +1,29 @@
+.parent{
+    background-color: orange;
+}
+
+.child{
+    width: 20%;
+    height: 300px;
+    float: right;
+}
+
+.clear{
+    clear: both;
+}
+
+.bg-red{
+    background-color: red;
+}
+
+.bg-blue{
+    background-color: blue;
+}
+
+.bg-teal{
+    background-color: teal;
+}
+
+.bg-tomato{
+    background-color: tomato;
+}
